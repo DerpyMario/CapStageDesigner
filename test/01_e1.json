@@ -1,0 +1,110 @@
+{
+    "nVer": 0,
+    "fStageClipWidth": 25.0,
+    "Datas": [
+        {
+            "fClipMinx": "-9.9",
+            "fClipMaxx": "15.1",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyPoint",
+                    "position": {
+                        "x": "5.31",
+                        "y": "1.47",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ21:1"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "EnemyPoint",
+                    "position": {
+                        "x": "10.55",
+                        "y": "2.66",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "3,ENEMY_OBJ11:0"
+                },
+                {
+                    "sGroupID": "",
+                    "name": "StartPoint",
+                    "position": {
+                        "x": "2.6",
+                        "y": "3.18",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/StartPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "1,START_OBJ1"
+                }
+            ]
+        },
+        {
+            "fClipMinx": "40.1",
+            "fClipMaxx": "65.1",
+            "Datas": [
+                {
+                    "sGroupID": "",
+                    "name": "EnemyEventPoint",
+                    "position": {
+                        "x": "47.8",
+                        "y": "1.55",
+                        "z": 0
+                    },
+                    "scale": {
+                        "x": 1,
+                        "y": 1,
+                        "z": 1
+                    },
+                    "rotate": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0,
+                        "w": 1
+                    },
+                    "path": "Assets/RockmanUnity/Prefabs/EnemyEventPoint.prefab",
+                    "bundlepath": "prefab/stage/stagepack",
+                    "property": "8,ENEMYEP_OBJ{\"bRunAtStart\":false;\"bUnLockRange\":true;\"nEndEventID\":0;\"B2DX\":0.0;\"B2DY\":0.0;\"B2DW\":2.930000066757202;\"B2DH\":6.079999923706055;\"SpawnPoints\":[{\"x\":39.55999755859375;\"y\":0.6399999260902405;\"z\":0.0};{\"x\":53.77000045776367;\"y\":1.369999885559082;\"z\":0.0}];\"SpawnGroups\":[{\"mEnemySpawnDatas\":[{\"fTime\":0.0;\"nID\":21;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0};{\"fTime\":2.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":0};{\"fTime\":0.0;\"nID\":11;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1};{\"fTime\":2.0;\"nID\":21;\"nDeadID\":0;\"bBack\":false;\"nPosID\":1}];\"nDeadID\":-1}]}"
+                }
+            ]
+        }
+    ]
+}
